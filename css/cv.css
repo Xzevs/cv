@@ -1,7 +1,61 @@
-body{
-	background-image:url(https://s3.envato.com/files/212542380/Dark%20Background%20%20%20%2001_preview1%20.JPG);
+body {
+	font-family: serif;
+	font-size: 16px;
+	background-image:url("https://s3.envato.com/files/212542380/Dark%20Background%20%20%20%2001_preview1%20.JPG");
+}
+h1 {
+	font-family: sans-serif;
+	font-size: 2em;
+	color:red;
+}
+header {
+	float:left;
+	font-size: 8px;
+	text-align:right;
+	color: white
 
 }
-body{
+h2 {
+	text-align:center;
+	color:white;
+	font-family:'Lobster', cursive;
+	font-size: 4em;
+
+}
+address {
+	color:white;
+	font-size: 1.5em;
+}
+p {
+	font-size: 1.2em;
+}
+main {
+	width: 70%;
+	margin-left: 30%;
+}
+aside {
+	text-align:center;
+	width: 30%;
+	float: left;
+	border-right: 2px  dashed white;
+	height: 1000px;
+
+}
+h1, p, h2, h3, h4, h5 {
+	padding: 0 2%;
 	color: white;
 }
+img {
+	border-radius: 100px;
+	height: 200px;
+}
+.name {
+	color: white;
+	font-size: 2em;
+	font-
+}
+header {
+	width: 100%;
+	background-color: black;
+}
+
